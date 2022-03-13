@@ -38,7 +38,7 @@ exports.list = (pushname, ucapanWaktu) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-*Berikut List Menu Yang Tersedia Di RyuBotz MD*
+*Berikut List Menu Yang Tersedia Di BetaBotz MD*
 
 *Jika Menemukan Bug Harap Dimaklumi Dan Laporkan Kepada*
 *Owner Atau Creator Agar Segera Di Fix 😎*
