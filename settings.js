@@ -34,7 +34,7 @@ global.prefa = ['','!','/','#','.']
 global.sp = '⭔'
 
 //Ubah Jadi false Kalau Botmu Pakai Wa Bussines
-listmenu = false
+listmenu = true
 
 //===> EDIT SESUAI KEMAUANMU
 global.mess = {
