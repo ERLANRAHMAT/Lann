@@ -8,7 +8,7 @@ exports.simple = (pushname, ucapanWaktu, prefix) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-Berikut List Menu Yang Tersedia Di *RyuBotz MD*
+Berikut List Menu Yang Tersedia Di *BetaBotz MD*
 
 ⚘👾 ${prefix}allmenu
 ⚘👾 ${prefix}ownermenu
